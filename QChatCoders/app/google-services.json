@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486491290683",
+    "project_id": "whatsappencoders",
+    "storage_bucket": "whatsappencoders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486491290683:android:e97fa74a5615de3f2d701e",
+        "android_client_info": {
+          "package_name": "com.example.whatsappcoders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486491290683-aveijhvtm1quqa1illnokmc7adv4f8sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAggYCEG8Nca009W0TTfoNkHArQvoSZKCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486491290683-aveijhvtm1quqa1illnokmc7adv4f8sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
